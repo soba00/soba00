@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+####            Just a noodle tryna code
+
+#
+
 <!--
 **soba00/soba00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/H3CViADSOAHdK/giphy.gif" width="300"/>
+</div>
